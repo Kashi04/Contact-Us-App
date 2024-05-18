@@ -10,6 +10,5 @@ Currently, two official plugins are available:
 
 
 # Page Output
-![p1](https://github.com/Kashi04/Contact-Us-App/assets/100992015/562ee84b-4068-46ce-86fb-8f92688e6e70)
-# page Second Output
-![p2](https://github.com/Kashi04/Contact-Us-App/assets/100992015/e83e9da1-5d3f-4fe2-93dc-71ba014ab95f)
+
+![pic1](https://github.com/Kashi04/Contact-Us-App/assets/100992015/2250fc07-a9a7-4039-b93a-839c7b3402c4)
